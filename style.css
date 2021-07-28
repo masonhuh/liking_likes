@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-weight: lighter;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.box {
+    border: 5px solid black;
+    width: 600px;
+    height: 145px;
+    margin: 50px auto;
+    margin-left: 160px;
+}
+
+.top {
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.header {
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+.likeCounter {
+    font-size: 20px;
+    margin-top: 34px;
+}
+
+.btn1 {
+        margin: 25px 0px;
+        background-color: gold;
+        width: 90px;
+        height: 45px;
+        border: 2px solid black;
+        box-shadow: 3px 3px 1px 1px black;
+    }
+
+.filler {
+    margin-left: 50px;
+}
